@@ -16,6 +16,7 @@ A simple authentication application using Authentication Routes, Middleware, Dab
 * [MongoDB] (https://mongodb.com) - Cross-platform document-oriented database program
 * [Mongoose.js] (https://mongoosejs.com/) - MongoDB object modeling for Node.js
 * [npm] (https://npmjs.com/) - JavaScript Package manager
+* [ejs package] (https://npmjs.com/package/ejs) - Embedded JavaScript templates
 * [body-parser package] (https://npmjs.com/package/body-parser) - Node.js body parsing middleware
 * [express-session package] (https://npmjs.com/package/express-session) - Creates a session middleware
 * [passport package] (https://npmjs.com/package/passport) - Express-compatible authentication middleware for Node.js
