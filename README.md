@@ -2,6 +2,21 @@
 
 A simple authentication application using Authentication Routes, Middleware, Dababase and Passport (Auth) packages without any CSS styling. 
 
+## Coding Mechanism
+
+* Set up folder structure
+* Install needed packages
+* Add root route and template
+* Add secret route and template
+* Create User model
+* Configure passport
+* Add Register routes
+* Add Register form
+* Add Login routes
+* Add Login form
+* Add Logout Route
+* Add isLoggedIn middleware
+
 ## Getting Started and Execution
 
 * The root page will provide options to SignUp, LogIn and SignOut.
